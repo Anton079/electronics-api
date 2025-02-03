@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\mycode\\asp.net\\electronics-api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9AF3F1C8-031D-420D-B163-ACC1CD83BAC2}|electronics-api\\electronics-api.csproj|c:\\mycode\\asp.net\\electronics-api\\electronics-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AF3F1C8-031D-420D-B163-ACC1CD83BAC2}|electronics-api\\electronics-api.csproj|solutionrelative:electronics-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AF3F1C8-031D-420D-B163-ACC1CD83BAC2}|electronics-api\\electronics-api.csproj|c:\\mycode\\asp.net\\electronics-api\\electronics-api\\data\\migrations\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AF3F1C8-031D-420D-B163-ACC1CD83BAC2}|electronics-api\\electronics-api.csproj|solutionrelative:electronics-api\\data\\migrations\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AF3F1C8-031D-420D-B163-ACC1CD83BAC2}|electronics-api\\electronics-api.csproj|c:\\mycode\\asp.net\\electronics-api\\electronics-api\\electronics-api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{9AF3F1C8-031D-420D-B163-ACC1CD83BAC2}|electronics-api\\electronics-api.csproj|solutionrelative:electronics-api\\electronics-api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AF3F1C8-031D-420D-B163-ACC1CD83BAC2}|electronics-api\\electronics-api.csproj|c:\\mycode\\asp.net\\electronics-api\\electronics-api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9AF3F1C8-031D-420D-B163-ACC1CD83BAC2}|electronics-api\\electronics-api.csproj|solutionrelative:electronics-api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AF3F1C8-031D-420D-B163-ACC1CD83BAC2}|electronics-api\\electronics-api.csproj|c:\\mycode\\asp.net\\electronics-api\\electronics-api\\data\\migrations\\createschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AF3F1C8-031D-420D-B163-ACC1CD83BAC2}|electronics-api\\electronics-api.csproj|solutionrelative:electronics-api\\data\\migrations\\createschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AF3F1C8-031D-420D-B163-ACC1CD83BAC2}|electronics-api\\electronics-api.csproj|c:\\mycode\\asp.net\\electronics-api\\electronics-api\\electronics\\models\\electronic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AF3F1C8-031D-420D-B163-ACC1CD83BAC2}|electronics-api\\electronics-api.csproj|solutionrelative:electronics-api\\electronics\\models\\electronic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AF3F1C8-031D-420D-B163-ACC1CD83BAC2}|electronics-api\\electronics-api.csproj|c:\\mycode\\asp.net\\electronics-api\\electronics-api\\electronics-api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9AF3F1C8-031D-420D-B163-ACC1CD83BAC2}|electronics-api\\electronics-api.csproj|solutionrelative:electronics-api\\electronics-api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AF3F1C8-031D-420D-B163-ACC1CD83BAC2}|electronics-api\\electronics-api.csproj|c:\\mycode\\asp.net\\electronics-api\\electronics-api\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AF3F1C8-031D-420D-B163-ACC1CD83BAC2}|electronics-api\\electronics-api.csproj|solutionrelative:electronics-api\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 235,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "electronics-api.csproj",
+              "DocumentMoniker": "C:\\mycode\\asp.net\\electronics-api\\electronics-api\\electronics-api.csproj",
+              "RelativeDocumentMoniker": "electronics-api\\electronics-api.csproj",
+              "ToolTip": "C:\\mycode\\asp.net\\electronics-api\\electronics-api\\electronics-api.csproj",
+              "RelativeToolTip": "electronics-api\\electronics-api.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-03T15:51:43.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\mycode\\asp.net\\electronics-api\\electronics-api\\appsettings.json",
+              "RelativeDocumentMoniker": "electronics-api\\appsettings.json",
+              "ToolTip": "C:\\mycode\\asp.net\\electronics-api\\electronics-api\\appsettings.json",
+              "RelativeToolTip": "electronics-api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-03T15:49:51.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "electronics-api.http",
+              "DocumentMoniker": "C:\\mycode\\asp.net\\electronics-api\\electronics-api\\electronics-api.http",
+              "RelativeDocumentMoniker": "electronics-api\\electronics-api.http",
+              "ToolTip": "C:\\mycode\\asp.net\\electronics-api\\electronics-api\\electronics-api.http",
+              "RelativeToolTip": "electronics-api\\electronics-api.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-02-03T15:49:50.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\mycode\\asp.net\\electronics-api\\electronics-api\\Program.cs",
+              "RelativeDocumentMoniker": "electronics-api\\Program.cs",
+              "ToolTip": "C:\\mycode\\asp.net\\electronics-api\\electronics-api\\Program.cs",
+              "RelativeToolTip": "electronics-api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T15:42:58.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\mycode\\asp.net\\electronics-api\\electronics-api\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "electronics-api\\WeatherForecast.cs",
+              "ToolTip": "C:\\mycode\\asp.net\\electronics-api\\electronics-api\\WeatherForecast.cs",
+              "RelativeToolTip": "electronics-api\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T15:42:57.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Electronic.cs",
+              "DocumentMoniker": "C:\\mycode\\asp.net\\electronics-api\\electronics-api\\Electronics\\Models\\Electronic.cs",
+              "RelativeDocumentMoniker": "electronics-api\\Electronics\\Models\\Electronic.cs",
+              "ToolTip": "C:\\mycode\\asp.net\\electronics-api\\electronics-api\\Electronics\\Models\\Electronic.cs",
+              "RelativeToolTip": "electronics-api\\Electronics\\Models\\Electronic.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T15:40:45.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\mycode\\asp.net\\electronics-api\\electronics-api\\Data\\Migrations\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "electronics-api\\Data\\Migrations\\AppDbContext.cs",
+              "ToolTip": "C:\\mycode\\asp.net\\electronics-api\\electronics-api\\Data\\Migrations\\AppDbContext.cs",
+              "RelativeToolTip": "electronics-api\\Data\\Migrations\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T15:40:07.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CreateSchema.cs",
+              "DocumentMoniker": "C:\\mycode\\asp.net\\electronics-api\\electronics-api\\Data\\Migrations\\CreateSchema.cs",
+              "RelativeDocumentMoniker": "electronics-api\\Data\\Migrations\\CreateSchema.cs",
+              "ToolTip": "C:\\mycode\\asp.net\\electronics-api\\electronics-api\\Data\\Migrations\\CreateSchema.cs",
+              "RelativeToolTip": "electronics-api\\Data\\Migrations\\CreateSchema.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T15:39:57.307Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
