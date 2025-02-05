@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\mycode\\asp.net\\electronics-api\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{9AF3F1C8-031D-420D-B163-ACC1CD83BAC2}|electronics-api\\electronics-api.csproj|c:\\mycode\\asp.net\\electronics-api\\electronics-api\\electroniccontroller\\electroniccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AF3F1C8-031D-420D-B163-ACC1CD83BAC2}|electronics-api\\electronics-api.csproj|solutionrelative:electronics-api\\electroniccontroller\\electroniccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9AF3F1C8-031D-420D-B163-ACC1CD83BAC2}|electronics-api\\electronics-api.csproj|c:\\mycode\\asp.net\\electronics-api\\electronics-api\\electronics\\repository\\electronicrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9AF3F1C8-031D-420D-B163-ACC1CD83BAC2}|electronics-api\\electronics-api.csproj|solutionrelative:electronics-api\\electronics\\repository\\electronicrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9AF3F1C8-031D-420D-B163-ACC1CD83BAC2}|electronics-api\\electronics-api.csproj|c:\\mycode\\asp.net\\electronics-api\\electronics-api\\electronics\\repository\\ielectronicrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9AF3F1C8-031D-420D-B163-ACC1CD83BAC2}|electronics-api\\electronics-api.csproj|solutionrelative:electronics-api\\electronics\\repository\\ielectronicrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9AF3F1C8-031D-420D-B163-ACC1CD83BAC2}|electronics-api\\electronics-api.csproj|c:\\mycode\\asp.net\\electronics-api\\electronics-api\\electroniccontroller\\electroniccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9AF3F1C8-031D-420D-B163-ACC1CD83BAC2}|electronics-api\\electronics-api.csproj|solutionrelative:electronics-api\\electroniccontroller\\electroniccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9AF3F1C8-031D-420D-B163-ACC1CD83BAC2}|electronics-api\\electronics-api.csproj|c:\\mycode\\asp.net\\electronics-api\\electronics-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -50,11 +50,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 235,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "ElectronicController.cs",
               "DocumentMoniker": "C:\\mycode\\asp.net\\electronics-api\\electronics-api\\ElectronicController\\ElectronicController.cs",
               "RelativeDocumentMoniker": "electronics-api\\ElectronicController\\ElectronicController.cs",
@@ -67,12 +67,12 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "ElectronicRepo.cs",
               "DocumentMoniker": "C:\\mycode\\asp.net\\electronics-api\\electronics-api\\Electronics\\Repository\\ElectronicRepo.cs",
               "RelativeDocumentMoniker": "electronics-api\\Electronics\\Repository\\ElectronicRepo.cs",
-              "ToolTip": "C:\\mycode\\asp.net\\electronics-api\\electronics-api\\Electronics\\Repository\\ElectronicRepo.cs*",
-              "RelativeToolTip": "electronics-api\\Electronics\\Repository\\ElectronicRepo.cs*",
+              "ToolTip": "C:\\mycode\\asp.net\\electronics-api\\electronics-api\\Electronics\\Repository\\ElectronicRepo.cs",
+              "RelativeToolTip": "electronics-api\\Electronics\\Repository\\ElectronicRepo.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-05T14:39:49.887Z",
@@ -80,7 +80,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "IElectronicRepo.cs",
               "DocumentMoniker": "C:\\mycode\\asp.net\\electronics-api\\electronics-api\\Electronics\\Repository\\IElectronicRepo.cs",
               "RelativeDocumentMoniker": "electronics-api\\Electronics\\Repository\\IElectronicRepo.cs",
