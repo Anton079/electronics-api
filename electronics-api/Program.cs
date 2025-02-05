@@ -1,6 +1,7 @@
 using Microsoft.EntityFrameworkCore;
 using FluentMigrator.Runner;
 using electronics_api.Data.Migrations;
+using electronics_api.Electronics.Repository;
 
 public class Program
 {
@@ -26,8 +27,8 @@ public class Program
         options.UseMySql(builder.Configuration.GetConnectionString("Default")!,
         new MySqlServerVersion(new Version(8, 0, 21))));
 
-        //builder.Services.AddScoped<ILibraryRepo, LibraryRepo>();
 
+        builder.Services.AddScoped<IElectronicRepo,ElectronicRepo>();
         builder.Services.AddFluentMigratorCore()
             .ConfigureRunner(rb => rb.AddMySql5()
             .WithGlobalConnectionString(builder.Configuration.GetConnectionString("Default"))
